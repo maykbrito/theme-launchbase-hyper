@@ -1,8 +1,8 @@
-# Omni for [Hyper](https://hyper.is)
+# Launchbase Theme for [Hyper](https://hyper.is)
 
 > Launchbase Theme [Hyper](https://hyper.is).
 
-![Screenshot](./screenshot)
+![Screenshot](./screenshot.png)
 
 ## [Install](./INSTALL.md)
 
